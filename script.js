@@ -19,5 +19,5 @@ var num = 0;
 if (!num) {
   console.log("一致");
 } else {
-  console.log("不一致s");
+  console.log("不一致");
 };
